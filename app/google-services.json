@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327289928962",
+    "project_id": "project-mebels",
+    "storage_bucket": "project-mebels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327289928962:android:57fe40ede6dff5dbe7561b",
+        "android_client_info": {
+          "package_name": "com.example.mebel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327289928962-ppkcc09uokeklg2tjsm7jan990kcfpsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mebel",
+            "certificate_hash": "518777c45c75dc9f43978b878484aa452c7ff7b5"
+          }
+        },
+        {
+          "client_id": "327289928962-bpgn5opb2ppisojugaa67hm6h1oi6n0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9Mx0vOcvyVHwmpng2nYCPg6-VGH9fK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327289928962-bpgn5opb2ppisojugaa67hm6h1oi6n0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
